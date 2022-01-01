@@ -24,7 +24,7 @@ section {
 }
 
 .heading {
-  background: url(../image/heading-bg.jpg) no-repeat;
+  background: url(image/heading-bg.jpg) no-repeat;
   background-size: cover;
   background-position: center;
   text-align: center;
@@ -116,7 +116,7 @@ section {
       -ms-flex-pack: justify;
           justify-content: space-between;
   padding: 2rem 9%;
-  background: url(../image/menu.png) no-repeat;
+  background: url(image/menu.png) no-repeat;
 }
 
 .header .logo {
