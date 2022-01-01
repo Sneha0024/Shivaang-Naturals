@@ -395,7 +395,7 @@ section {
 
 .home {
   padding-top: 49.5rem;
-  background: url(../image/Design2\ –\ 2.png) no-repeat;
+  background: url(image/Design2\ –\ 2.png) no-repeat;
   background-size: cover;
   background-position: center;
   position: relative;
@@ -410,7 +410,7 @@ section {
 }
 .home3 {
   padding-top: 0.1rem;
-  background: url(../image/Group\ 145.png) no-repeat;
+  background: url(image/Group\ 145.png) no-repeat;
   background-size: cover;
   background-position: center;
   position: relative;
@@ -425,7 +425,7 @@ section {
 
 .home3-sub{
   padding-top: 0.1rem;
-  background: url(../image/green-sep.png) no-repeat;
+  background: url(image/green-sep.png) no-repeat;
   background-size: cover;
   background-position: center;
   position: relative;
@@ -517,12 +517,12 @@ section {
 
 .home #prev-slide {
   left: 2rem;
-  background: url(../image/Group\ 58.png) no-repeat;
+  background: url(image/Group\ 58.png) no-repeat;
 }
 
 .home #next-slide {
   right: 2rem;
-  background: url(../image/Ggoup\ 59.png) no-repeat;
+  background: url(image/Ggoup\ 59.png) no-repeat;
   
 }
 
