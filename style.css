@@ -1051,7 +1051,7 @@ section {
 }
 
 .footer {
-  background:url(../image/Group\ 146.png) no-repeat;;
+  background:url(image/Group\ 146.png) no-repeat;;
 }
 
 .footer .box-container {
@@ -1137,7 +1137,7 @@ section {
   /* z-index: -1; */
   /* top:-17rem; */
   left: 2rem; 
-  background: url(../image/home-leaf-1.png) no-repeat;
+  background: url(image/home-leaf-1.png) no-repeat;
 
 }
 .home3::before{
@@ -1148,7 +1148,7 @@ section {
   width:21rem;
   /* z-index: -1; */
   top:-17rem; right: 0rem;
-  background: url(../image/leave.png) no-repeat;
+  background: url(image/leave.png) no-repeat;
 }
 .home3::after{
   content: '';
@@ -1158,7 +1158,7 @@ section {
   width:23rem;
   /* z-index: -1; */
   bottom:-16rem; left: -4rem;
-  background: url(../image/Group\ 52.png) no-repeat;
+  background: url(image/Group\ 52.png) no-repeat;
 }
 
 
@@ -1298,7 +1298,7 @@ section {
   z-index: -1;
   /* bottom:-16rem; left: -4rem; */
   right: 29px;
-  background: url(../image/4.png) no-repeat;
+  background: url(image/4.png) no-repeat;
 }
 
 @media (max-width: 991px) {
